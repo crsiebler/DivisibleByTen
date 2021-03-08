@@ -1,0 +1,2 @@
+# DivisibleByTen
+JavaScript interview question
